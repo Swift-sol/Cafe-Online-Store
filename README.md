@@ -10,7 +10,7 @@
 
 - `Place to advertise what a company value`
 
-- `Responsive and embended video link from Youtube`
+- `Responsive and embed video link from Youtube`
 <br>
 
 Dropdown menu bar  <br>
@@ -18,7 +18,7 @@ Dropdown menu bar  <br>
 
 <br>
 
-embended video  <br>
+embed video  <br>
  ![Video](https://user-images.githubusercontent.com/62746283/99036873-e5836f00-25b0-11eb-84be-af504fb3475c.PNG)
  
  
