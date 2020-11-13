@@ -13,18 +13,18 @@
 - `Responsive and embed video link from Youtube`
 <br>
 
-Dropdown menu bar  <br>
+**Dropdown menu bar**  <br>
 ![dropDown](https://user-images.githubusercontent.com/62746283/99036875-e6b49c00-25b0-11eb-93f3-28edd6d7240a.PNG)
 
 <br>
 
-embed video  <br>
+**embed video**  <br>
  ![Video](https://user-images.githubusercontent.com/62746283/99036873-e5836f00-25b0-11eb-84be-af504fb3475c.PNG)
  
  
  <br>
  
- Online Order for users  <br>
+**Online Order for users**  <br>
  ![responsive Order](https://user-images.githubusercontent.com/62746283/99036868-e2887e80-25b0-11eb-9a51-c4d546d9ac58.PNG)
 ### Contributing🧑🏻‍🤝‍🧑🏽
 
