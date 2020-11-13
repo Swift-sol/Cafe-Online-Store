@@ -2,7 +2,7 @@
 ## This project is cafe online shop - ( simple HTML and CSS )
 
 
-- `Dropdown menu bar`
+- `Dropdown menu bar with icons`
 
 - `Box to Request users' emails for subscribtion`
 
