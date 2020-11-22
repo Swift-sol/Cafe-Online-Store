@@ -8,7 +8,7 @@
 
 - `Online Order for users`
 
-- `Place to advertise what a company value`
+- `Place to advertise what our company value`
 
 - `Responsive and embed video link from Youtube`
 <br>
